@@ -5,7 +5,7 @@ body {
   text-align: center;
   background-image: url(./image/home2.jpg);
   background-position: 0rem;
-  background-attachment: inherit;
+  background-attachment: fixed;
   background-size: cover;
 }
 
